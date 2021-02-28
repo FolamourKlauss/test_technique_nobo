@@ -25,6 +25,15 @@ pas aux conditions de la section “Projet” ne sera pas retenu.
 
 ## Rendu
 
+## Test du programme
+Dans le terminal :
+
+npm test index.js
+
+OU
+
+npm start index.js
+
 ### Règle du programme P1:
 ● Je prends en entrée une chaîne de caractère et un nombre entre 0 et 20
 ● Mes entrées sont toutes obligatoires
@@ -32,6 +41,7 @@ pas aux conditions de la section “Projet” ne sera pas retenu.
 ● Je donne en sortie le résultat de la division entre la longueur de ma chaîne de caractère et mon
 nombre
 
+=> Fonction noboDivision() dans test_technique_nobo/app/function
 
 
 ### Règle du programme P2:
