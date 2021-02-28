@@ -1,0 +1,22 @@
+{
+  "name": "test_technique_nobo",
+  "version": "1.0.0",
+  "description": "test technique stage developpeur web back end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FolamourKlauss/test_technique_nobo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FolamourKlauss/test_technique_nobo/issues"
+  },
+  "homepage": "https://github.com/FolamourKlauss/test_technique_nobo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
