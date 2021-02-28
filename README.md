@@ -25,14 +25,15 @@ pas aux conditions de la section “Projet” ne sera pas retenu.
 
 ## Rendu
 
-## Test du programme
+## Test des programme P1 et P2
+
 Dans le terminal :
 
-npm test index.js
+mocha
 
-OU
-
-npm start index.js
+Cette commande lancera les scénarios de tests suivants :
+-p1Test.js pour le programme P1
+-p2Test.js pour le programme P2
 
 ### Règle du programme P1:
 ● Je prends en entrée une chaîne de caractère et un nombre entre 0 et 20

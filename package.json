@@ -4,8 +4,8 @@
   "description": "test technique stage developpeur web back end",
   "main": "index.js",
   "scripts": {
-    "start": "mocha",
-    "test": "mocha"
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -18,9 +18,12 @@
   },
   "homepage": "https://github.com/FolamourKlauss/test_technique_nobo#readme",
   "dependencies": {
+    "dayjs": "^1.10.4",
     "express": "^4.17.1"
   },
   "devDependencies": {
+    "chai": "^4.3.0",
+    "chai-http": "^4.3.0",
     "mocha": "^8.3.0"
   }
 }

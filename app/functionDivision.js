@@ -1,4 +1,4 @@
-
+//Fonction de vérification et de division utilisant les paramètres de l'url en entrée (programme P1)
 
 function noboDivision (req, res) {
     const str = req.params.str;
